@@ -1,0 +1,18 @@
+DCCINo: PO-298042
+LegalType_EN: 305480
+LegalType_AR: Private JSC
+TradeName_EN: مساهمة خاصة
+TradeName_AR: RATTAN HOUSE FACTORY FOR FURNITURE
+EstablishmentDate: مصنع راتان هاوس لصناعة الأنا
+IssueDate: 29/04/1998
+ExpiryDate: 11/06/2013
+Role_EN: 30/02/1972
+Role_AR: Director Responsible
+Nationality_EN: وكيل خدمات
+Nationality_AR: =mirates Arab Emirates
+FullName_EN: الامارات
+FullName_AR: BASHAR ADNAN AHMAD
+NoAD: بشار عدنان ‎aor!‏
+LicenseActivities_EN: 66693235
+LicenseActivities_AR: Doors and windows installation works ‏لتجزئة‎
+Address: ‎gu‏ قطع غيار معدات وأجهزة السلامة وإطفاء الحريق-
